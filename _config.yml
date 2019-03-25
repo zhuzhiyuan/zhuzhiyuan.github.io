@@ -22,8 +22,6 @@ github_username:  zhuzhiyuan
 
 # Build settings
 theme: just-the-docs
-plugins:
-  - jekyll-feed
 search_enabled: true
 color_scheme: nil
 # Exclude from processing.

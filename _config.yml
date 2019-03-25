@@ -17,7 +17,7 @@ title: My Docs
 email: ly_zzy@126.com
 description: "this is a description"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "zhuzhiyuan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhuzhiyuan
 permalink: pretty
 exclude: ["Gemfile", "Gemfile.lock", "README.md",]

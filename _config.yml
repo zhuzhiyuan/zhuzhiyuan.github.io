@@ -13,18 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Private
+title: My Docs
 email: ly_zzy@126.com
 description: "this is a description"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zhuzhiyuan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhuzhiyuan
 
-permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
-
 # Build settings
-markdown: kramdown
 theme: just-the-docs
 plugins:
   - jekyll-feed

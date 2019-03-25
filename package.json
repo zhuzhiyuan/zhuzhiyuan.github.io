@@ -1,0 +1,13 @@
+{
+  "name": "My Docs",
+  "version": "1.0.0",
+  "description": "zhuzhiyuan's web site",
+  "devDependencies": {
+    "stylelint": "^9.10.1",
+    "stylelint-config-primer": "^3.0.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "stylelint '**/*.scss'"
+  }
+}

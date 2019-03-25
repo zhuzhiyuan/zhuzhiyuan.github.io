@@ -22,7 +22,7 @@ github_username:  zhuzhiyuan
 permalink: pretty
 exclude: ["Gemfile", "Gemfile.lock", "README.md",]
 # Build settings
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 color_scheme: nil
 # Other

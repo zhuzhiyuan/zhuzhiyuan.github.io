@@ -25,14 +25,5 @@ exclude: ["Gemfile", "Gemfile.lock", "README.md",]
 theme: just-the-docs
 search_enabled: true
 color_scheme: nil
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Other
+markdown: kramdown

@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhuzhiyuan
 permalink: pretty
-exclude: ["node_modules/", "Gemfile", "README.md",]
+exclude: ["Gemfile", "README.md",]
 # Build settings
 search_enabled: true
 color_scheme: nil

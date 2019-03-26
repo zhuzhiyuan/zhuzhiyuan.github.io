@@ -1,12 +1,12 @@
 ---
 layout: default
-title: PC Client
-parent: My Favorite
+title: PC客户端工具
+parent: 我的收藏
 nav_order: 1
 ---
 
 
-# PC Client
+# PC客户端工具
 {: .no_toc }
 
 |:-------------|:--------------|

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: English Music List
-parent: My Favorite
+title: 英文歌曲
+parent: 我的收藏
 nav_order: 1
 ---
 
-# English Music List
+# 英文歌曲
 {: .no_toc }
 
 ### 车载

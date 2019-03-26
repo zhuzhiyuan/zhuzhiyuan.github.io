@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Blog Tools
-parent: My Favorite
+title: 博客工具
+parent: 我的收藏
 nav_order: 1
 ---
 
-# Blog Tools
+# 博客工具
 {: .no_toc }
 
 |:-------------|:--------------|

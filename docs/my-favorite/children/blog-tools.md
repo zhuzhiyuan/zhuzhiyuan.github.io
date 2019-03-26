@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: docs
 title: 博客工具
 parent: 我的收藏
 nav_order: 1

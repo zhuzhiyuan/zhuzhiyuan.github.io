@@ -23,6 +23,5 @@ permalink: pretty
 exclude: ["Gemfile", "README.md",]
 # Build settings
 search_enabled: true
-color_scheme: nil
 # Other
 markdown: kramdown
